@@ -1,0 +1,25 @@
+body {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.main-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-bottom: auto;
+}
+
+header {
+  border-bottom: 1px solid black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.sections-wrapper {
+  display: flex;
+  padding: 2rem;
+  justify-content: space-around;
+}

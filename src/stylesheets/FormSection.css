@@ -1,0 +1,11 @@
+.form-section {
+  padding: 1rem;
+  border-radius: 8px;
+  width: 500px;
+  border: 0.5px solid gray;
+  box-shadow: 5px 5px 5px rgb(172, 171, 171);
+}
+
+.form-section > h2 {
+  cursor: pointer;
+}

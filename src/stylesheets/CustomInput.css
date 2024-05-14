@@ -1,0 +1,19 @@
+.input-wrapper {
+  display: flex;
+  flex-direction: column;
+  padding: 0.25rem;
+}
+
+input {
+  height: 25px;
+  border-radius: 8px;
+  border: none;
+  margin-top: 3px;
+  background-color: rgb(229, 225, 225);
+}
+
+textarea {
+  border-radius: 8px;
+  border: none;
+  background-color: rgb(229, 225, 225);
+}
