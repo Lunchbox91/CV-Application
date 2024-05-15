@@ -15,8 +15,6 @@ This is a React app made for The Odin Project in which users can input their det
 
 ### The challenge
 
-![](/Screenshot%202024-05-15%20at%2018.09.06.png)
-
 Users should be able to:
 
 - Input their details including personal/education/experience
@@ -27,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/assets/images/screenshot.png)
+![](/src/assets/screenshot.png)
 
 ## My process
 
